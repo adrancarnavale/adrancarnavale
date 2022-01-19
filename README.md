@@ -1,7 +1,6 @@
 ### Hi there, I'm Adran Carnavale! 👋
 #### To have a better view of my repositories, se my [Repositories Lists](https://github.com/adrancarnavale?tab=stars)
 
-- [Portfolio](https://adrancarnavale.github.io/)
 - 🔭 I’m currently studying Software Development on Trybe
 - 📫 How to reach me: adran.carnavale@gmail.com
 
