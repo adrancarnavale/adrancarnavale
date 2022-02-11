@@ -14,13 +14,13 @@
   
 ### Languages and Tools
   <section>
-    <i class="devicon-adonisjs-original"></i>
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </section>
   
 ##
   
 <section>
-  <a href="https://www.linkedin.com/in/adrancarnavale" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /></a> 
+  <a href="https://www.linkedin.com/in/adrancarnavale" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a> 
 </section>
   
   
