@@ -20,7 +20,8 @@
 ##
   
 <section>
-  <a href="https://www.linkedin.com/in/adrancarnavale" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/adrancarnavale" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
+</a> 
 </section>
   
   
