@@ -14,7 +14,7 @@
   
 ### Languages and Tools
   <section>
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img border-radius="50%" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </section>
   
 ##
