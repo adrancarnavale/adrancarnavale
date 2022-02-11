@@ -14,7 +14,7 @@
   
 ### Languages and Tools
   <section>
-    <i class="fa-brands fa-github"></i>
+    <i class="bi bi-github"></i>
   </section>
   
 ##
