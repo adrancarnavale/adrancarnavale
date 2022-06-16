@@ -8,7 +8,7 @@
     - 📫 How to reach me: adran.carnavale@gmail.com
   </p>
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=nord&hide=html,css,glsl)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrancarnavale&theme=nord&hide=html,css,glsl)](https://github.com/adrancarnavale/github-readme-stats)
 
   <h1 align="center">Languages and Tools</h1>
   
