@@ -1,5 +1,6 @@
-  <h1 align="center">### Hi there, I'm Adran Carnavale! 👋</h1>
+  <h1 align="center">Hi there, I'm Adran Carnavale! 👋</h1>
 
+<p align="center">
   - 🔭 I’m currently studying Software Development on Trybe
   - 📫 How to reach me: adran.carnavale@gmail.com
 
@@ -8,6 +9,7 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrancarnavale&theme=nord)
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrancarnavale&show_icons=true&theme=nord)
+</p>
 
 ##
   
