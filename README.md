@@ -8,21 +8,20 @@
     - 📫 How to reach me: adran.carnavale@gmail.com
   </p>
 
-  <p align="center">
+  
     ![](https://visitor-badge.laobi.icu/badge?page_id=adrancarnavale.adrancarnavale)
-  </p>
+  
 
-  <p align="center">
+ 
     [![Github](https://img.shields.io/github/followers/adrancarnavale?label=Follow&style=social)](https://github.com/adrancarnavale)
-  </p>
+  
 
-  <p align="center">
+  
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrancarnavale&theme=nord)
-  </p>
 
-  <p align="center">
+
     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adrancarnavale&show_icons=true&theme=nord)
-  </p>
+ 
 
   <h1 align="center">Languages and Tools</h1>
   
