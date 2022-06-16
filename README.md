@@ -8,8 +8,13 @@
     - 📫 How to reach me: adran.carnavale@gmail.com
   </p>
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrancarnavale&theme=nord&hide=html,css,glsl)](https://github.com/anuraghazra/github-readme-stats)
-   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adrancarnavale)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrancarnavale&theme=nord&hide=html,css,glsl" />
+  </a>
+  
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=adrancarnavale&theme=nord" />
+  </a>
 
   <h1 align="center">Languages and Tools</h1>
   
