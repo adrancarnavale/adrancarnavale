@@ -10,10 +10,7 @@
   
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrancarnavale&theme=nord&hide=html,css,glsl" />
-  </a>
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adrancarnavale&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
- 
+  </a> 
 
   <h1 align="center">Languages and Tools</h1>
   
