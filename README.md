@@ -8,9 +8,9 @@
     - 📫 How to reach me: adran.carnavale@gmail.com
   </p>
   
-  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrancarnavale&theme=nord&hide=html,css,glsl" />
-  </a> 
+  </div> 
 
   <h1 align="center">Languages and Tools</h1>
   
